@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_testis",
+  "info": {
+    "displayName": "testi",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "t": {
+      "type": "string"
+    },
+    "des": {
+      "type": "string"
+    },
+    "test": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.testimonial"
+    }
+  }
+}

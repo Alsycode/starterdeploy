@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_elements_editos",
+  "info": {
+    "displayName": "edito",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "titlte": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "purple",
+        "yellow",
+        "finish"
+      ]
+    }
+  }
+}
